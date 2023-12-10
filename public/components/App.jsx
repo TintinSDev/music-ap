@@ -16,9 +16,14 @@ export default function App (){
   return (
     <div>
       <h1>Favorite Songs</h1>
+      <SearchBar onSearch={handleSearch} />
       
-        
-      
+      <h2>Filtered Songs:</h2>
+      <ul>
+        {filteredSongs.map((song, index) => (
+          <li key={index}>{song}</li>
+        ))}
+      </ul>
     </div>
   );
 };
