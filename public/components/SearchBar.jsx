@@ -7,17 +7,18 @@ export default function SearchBar({ onSearch }) {
     // define a varibale handleChange that detects changes in the input
 
     function handleChange(event) { 
-        setSearchSong(event.target.value)
-        onSearch(event.target.value)
+        const { value } = event.target;
+    setSearchSong(value);
+    onSearch(value); //This is a callback to handle search
     }
     return (
-        <div>
+        <div className="search-bar">
       <label htmlFor="search">Search:</label>
       <input
         type="text"
         id="search"
         placeholder="Enter your favorite song or genre"
-        value={searchTerm}
+        value={searchSong}
         onChange={handleChange}
       />
     </div>
