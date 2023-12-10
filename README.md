@@ -73,3 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
  when the user types in the SearchBar, the handleSearch function is called, and it filters the list of songs based on the search term.
  The filtered songs are then displayed in the App component. 
   Note that you may need to adapt this code based on your specific application structure and data handling.
+
+  the App component maintains two states: allSongs and filteredSongs. 
+  The SearchBar component calls the handleSearch function, which filters the songs based on the search term. 
+  The filtered songs are then displayed in the App component.
