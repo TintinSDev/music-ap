@@ -1,0 +1,125 @@
+{
+  "music": [
+    {
+      "id": 1,
+      
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "genre": "Pop",
+      "year": 2017,
+      "url": "https://www.youtube.com/watch?v=JGwWNGJdvx8"
+    },
+    {
+      "id": 2,
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "genre": "Rock",
+      "year": 1975,
+      "url": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ"
+    },
+    {
+      "id": 3,
+      "title": "Smells Like Teen Spirit",
+      "artist": "Nirvana",
+      "genre": "Grunge",
+      "year": 1991,
+      "url": "https://www.youtube.com/watch?v=hTWKbfoikeg"
+    },
+    {
+      "id": 4,
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "genre": "Pop",
+      "year": 1983,
+      "url": "https://www.youtube.com/watch?v=Zi_XLOBDo_Y"
+    },
+    {
+      "id": 5,
+      "title": "Hotel California",
+      "artist": "Eagles",
+      "genre": "Rock",
+      "year": 1977,
+      "url": "https://www.youtube.com/watch?v=1lWJXDG2i0A"
+    },
+    {
+      "id": 6,
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "genre": "Pop",
+      "year": 2020,
+      "url": "https://www.youtube.com/watch?v=4NRXx6U8ABQ"
+    },
+    {
+      "id": 7,
+      "title": "Havana",
+      "artist": "Camila Cabello ft. Young Thug",
+      "genre": "Pop",
+      "year": 2017,
+      "url": "https://www.youtube.com/watch?v=BQ0mxQXmLsk"
+    },
+    {
+      "id": 8,
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson ft. Bruno Mars",
+      "genre": "Funk",
+      "year": 2014,
+      "url": "https://www.youtube.com/watch?v=OPf0YbXqDm0"
+    },
+    {
+      "id": 8,
+      "title": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "genre": "Pop",
+      "year": 2019,
+      "url": "https://www.youtube.com/watch?v=zABLecsR5UE"
+    },
+    {
+      "id": 9,
+      "title": "Despacito",
+      "artist": "Luis Fonsi ft. Daddy Yankee",
+      "genre": "Reggaeton",
+      "year": 2017,
+      "url": "https://www.youtube.com/watch?v=kJQP7kiw5Fk"
+    },
+    {
+      "id": 10,
+      "title": "Old Town Road",
+      "artist": "Lil Nas X ft. Billy Ray Cyrus",
+      "genre": "Country rap",
+      "year": 2019,
+      "url": "https://www.youtube.com/watch?v=w2Ov5jzm3j8"
+    },
+    {
+      "id": 11,
+      "title": "Hello",
+      "artist": "Adele",
+      "genre": "Pop",
+      "year": 2015,
+      "url": "https://www.youtube.com/watch?v=YQHsXMglC9A"
+    },
+    {
+      "id": 12,
+      "title": "7 Rings",
+      "artist": "Ariana Grande",
+      "genre": "Pop",
+      "year": 2019,
+      "url": "https://www.youtube.com/watch?v=QYh6mYIJG2Y"
+    },
+    {
+      "id": 13,
+      "title": "Shallow",
+      "artist": "Lady Gaga, Bradley Cooper",
+      "genre": "Pop",
+      "year": 2018,
+      "url": "https://www.youtube.com/watch?v=bo_efYhYU2A"
+    },
+    {
+      "id": 14,
+      "title": "Dance Monkey",
+      "artist": "Tones and I",
+      "genre": "Pop",
+      "year": 2019,
+      "url": "https://www.youtube.com/watch?v=q0hyYWKXF0Q"
+    }
+  ]
+}
